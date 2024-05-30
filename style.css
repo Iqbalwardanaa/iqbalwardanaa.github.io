@@ -1,0 +1,49 @@
+.jumbotron {
+  background: url("img/batik.jpg") no-repeat center center;
+  background-size: cover;
+  padding-top: 18%;
+  padding-bottom: 15%;
+  color: rgb(255, 255, 255);
+  padding: rgb(2rem 2rem);
+  background-color: rgb(237, 235, 255);
+}
+
+.col-aboutme {
+  color: rgb(78, 78, 78);
+}
+
+.col-frontendtext {
+  font-size: 20 px;
+  color: black;
+}
+
+.lead {
+  color: rgb(195, 195, 195);
+}
+
+.btn-primary {
+  background-color: rgb(17, 0, 85);
+}
+
+.card {
+  font-size: 10px;
+  color: rgb(23, 23, 23);
+}
+
+.card-title1 {
+  text-align: left;
+}
+
+.card-text1 {
+  text-align: left;
+  color: rgb(53, 53, 53);
+}
+
+.card-text2 {
+  font-size: medium;
+}
+
+section {
+  color: rgb(0, 0, 0);
+  padding-top: 5rem;
+}
